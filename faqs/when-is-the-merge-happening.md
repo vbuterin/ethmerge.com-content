@@ -15,10 +15,6 @@ The best current (non-official) estimate is sometime in Q1 2022.
 **Long Answer:**<br>
 At the time of writing there is no definitive date for "The Merge".
 
-The Ethereum proof-of-work (PoW) chain will undergo 2 hard forks named [Berlin and London](https://hackmd.io/@timbeiko/acd-update-001) in 2021. Afterwards the Ethereum community is pushing for all effort to be focused on the switch to proof-of-stake (PoS).
+Now that the Ethereum community has successfully implemented the London hard fork, the Ethereum core dev community is focusing the bulk of its effort on the switch to proof-of-stake (PoS). The Ethereum PoS chain is currently running and will undergo its first hard fork (Codenamed Altair) in late October 2021 - before "The Merge".
 
-The Ethereum PoS chain is currently running and will undergo its first hard fork (Codenamed Altair) in June 2021 - before "The Merge".
-
-Between April 16th and May 14th 2021 ETHGlobal will be hosting the [Ethereum virtual scaling Hackaton](https://scaling.ethglobal.co). The PoW / PoS merge is one of the [projects](https://rayonism.io/) which will be worked on during the hackathon.
-
-Depending on the result of the prototypes being built during the ETHGlobal Hackathon and the first results of the first Ethereum PoS hard fork, a [decision will be made](https://hackmd.io/@timbeiko/acd-update-001) (in June 2021) on whether or not the Ethereum PoW "Shanghai" hard fork will focus on improvements to existing PoW chain [Ethereum Improvement Proposals (EIPs)](https://eips.ethereum.org/) or if "The Merge" will become the top priority. The Shanghai hard fork is currently expected to take place in Q1 2022.
+In early October, core Ethereum developers gathered for an in-person workshop to create a multi-client testnet of the entire merge process; the effort [was successful](https://twitter.com/parithosh_j/status/1446598943912177664), with all combinations of 3 execution clients and 4 consensus clients included. The next step is to make a more professional public testnet (similar to Ropsten and Goerli). Once the merge transition and post-merge steady state have been verified to be safe, the immediate next step will be to schedule the time and release the mainnet clients for the merge.
